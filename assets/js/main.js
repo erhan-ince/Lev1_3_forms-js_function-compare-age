@@ -1,6 +1,3 @@
-let a1 = document.getElementById('a1');
-let a2 = document.getElementById('a2');
-
 function compare() {
    let a;
    a = a1.value - a2.value;
