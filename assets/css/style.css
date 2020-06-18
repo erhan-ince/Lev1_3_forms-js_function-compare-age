@@ -1,0 +1,12 @@
+body {
+   margin: 0;
+}
+form {
+   display: inline-block;
+   margin-left: 10%;
+   width: 220px;
+}
+div {
+   margin-top: 10%;
+   width: auto;
+}
